@@ -86,8 +86,8 @@ background-size: cover;
 .boton1 {
     display: inline-block;
     zoom: 2;
-    height: 28px;
-    width: 225px;
+    height: auto;
+    width: auto;
     display: inline;
     vertical-align: baseline;
     cursor: pointer;
